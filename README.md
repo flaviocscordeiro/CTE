@@ -6,3 +6,5 @@ No primeiro, ele terá que indicar o diretório onde estão armazenados os XMLs 
 No próximo prompt, o usuário deverá indicar o local onde deseja salvar os arquivos XLSX (serão dois, um com os arquivos XML que não puderam sem processados - normalmente são arquivos que não foram validados pela RFB (Receita Federal do Brasil). 
 E o outro, com todas as informações dos XML processados.
 
+Eu disponibilizei junto com o código, um diretório com arquivos XML de exemplos, para fins de teste da aplicação.
+
